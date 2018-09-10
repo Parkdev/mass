@@ -1,7 +1,7 @@
 # Vim Swap files
 *.swp
 # /.swp dir/**/.swp
-
+?
 # macOS 지금 나에겐 당장 관련 없어도 다름사람과 같이 사용할때 고려하기위해 작성하는것이 좋다.
 .DS-Store
 
